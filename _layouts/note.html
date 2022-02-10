@@ -35,12 +35,10 @@ layout: default
         </p>
       </div>
       {% endif %}
+      <h3 style="margin-bottom: 1em">Here are all the notes in this garden, along with their links, visualized as a graph.</h3>
+        {% include notes_graph.html %}
+      <div class="backlink-box">
+      </div>
     </side>
   </div>
 </article>
-
-<hr>
-
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-
-{% include notes_graph.html %}
