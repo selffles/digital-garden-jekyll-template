@@ -1,5 +1,6 @@
-{{ page.date | date: "%-d" }}
-{% assign m = page.date | date: "%-m" %}
+{{ page.creationDate | date: "%-d" }}
+
+{% assign m = page.creationDate | date: "%-m" %}
 {% case m %}
   {% when '1' %}Січня
   {% when '2' %}Лютого
@@ -15,15 +16,15 @@
   {% when '12' %}Грудня
 {% endcase %}
 
-{{ page.date | date: "%Y," }}
+{{ page.creationDate | date: "%Y," }}
 
-{% assign w = page.date | date: "%w" %}
+{% assign w = page.creationDate | date: "%w" %}
 {% case w %}
+  {% when '0' %}Нд
   {% when '1' %}Пн
   {% when '2' %}Вт
   {% when '3' %}Ср
   {% when '4' %}Чт
   {% when '5' %}Пт
   {% when '6' %}Сб
-  {% when '7' %}Нд
 {% endcase %}

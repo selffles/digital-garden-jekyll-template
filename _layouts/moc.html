@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+    {% if page.status %}
+      <h1>{{ page.status }}{{ page.title }}</h1>
+    {% else %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      {% if page.creationDate %}
+        <div style="font-size: 0.9em">Посаджено {% include locale-creation-date.html %}</div>
+      {% endif %}
+        <div style="font-size: 0.9em">Востаннє доглянуто {% include locale-date.html %}</div>
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+  </div>
+</article>

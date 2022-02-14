@@ -1,5 +1,7 @@
 ---
 title: Market Cap
+creationDate: 2022-02-09
+status: 📥
 ---
 Допис ще в процесі...
 

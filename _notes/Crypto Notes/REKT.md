@@ -1,5 +1,7 @@
 ---
 title: REKT
+creationDate: 2022-02-09
+status: 🌲
 ---
 ## Що таке REKT?
 

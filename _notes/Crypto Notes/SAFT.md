@@ -1,5 +1,7 @@
 ---
 title: SAFT
+creationDate: 2022-02-09
+status: 🌲
 ---
 ## Що таке Simple Agreement for Future Tokens (SAFT) - Проста домовленність про мабутні токени? 
 
