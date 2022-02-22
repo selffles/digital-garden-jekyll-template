@@ -19,6 +19,8 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     ffi (1.14.2)
+    font-awesome-sass (5.15.1)
+      sassc (>= 1.11)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.5)
@@ -77,6 +79,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  font-awesome-sass
   jekyll (~> 4.0)
   jekyll-last-modified-at!
   nokogiri
