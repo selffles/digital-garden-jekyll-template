@@ -1,0 +1,26 @@
+---
+---
+
+- [x] prepare the distribution sheet
+- [x] update accessories spreadsheet
+- [x] update **distribution_probability_suggestions.pdf**
+- [x] add **Alien** characters
+- [x] setup **materials** for **Alien** characters
+- [x] *HAIR* **OFF** when *HELMET* **ON** EXCEPT *HELMET 16*
+- [x] fix hair under HELMET 16
+- [x] fix **BEARDS** under **HELMET** 
+- [ ] for **Chest Armor 16** turn OFF **Shoulder Armor** and **Forearm Armor**
+- [x] body material variations - **exclude Aliens** (7-9)
+- [ ] fix **Sword Pose 02**
+- [x] add **Bow Pose**
+- [x] add **Arrow Accessory** for the **HANDS**
+- [x] add **BOW** poses to the **PDF**
+- [x] fix **REST POSES** with the **SHIELDS**
+- [x] fix **HELMETS** for **ALIENS**
+- [ ] fix **CHEST ARMOR** for **ALIENS**
+- [x] fix **SHOULDER ARMOR** for **ALIENS**
+- [x] fix **FOREARM ARMOR** for **ALIENS**
+- [x] fix **HIP ARMOR** for **ALIENS**
+- [x] fix **KNEE ARMOR** for **ALIENS**
+- [x] fix **FOOT ARMOR** for **ALIENS**
+- [ ] arrow holding fingers pose
