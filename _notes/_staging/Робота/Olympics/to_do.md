@@ -9,7 +9,7 @@
 - [x] *HAIR* **OFF** when *HELMET* **ON** EXCEPT *HELMET 16*
 - [x] fix hair under HELMET 16
 - [x] fix **BEARDS** under **HELMET** 
-- [ ] for **Chest Armor 16** turn OFF **Shoulder Armor** and **Forearm Armor**
+- [x] for **Chest Armor 16** turn OFF **Shoulder Armor** and **Forearm Armor**
 - [x] body material variations - **exclude Aliens** (7-9)
 - [ ] fix **Sword Pose 02**
 - [x] add **Bow Pose**
@@ -17,10 +17,34 @@
 - [x] add **BOW** poses to the **PDF**
 - [x] fix **REST POSES** with the **SHIELDS**
 - [x] fix **HELMETS** for **ALIENS**
-- [ ] fix **CHEST ARMOR** for **ALIENS**
+- [x] fix **CHEST ARMOR** for **ALIENS**
 - [x] fix **SHOULDER ARMOR** for **ALIENS**
 - [x] fix **FOREARM ARMOR** for **ALIENS**
 - [x] fix **HIP ARMOR** for **ALIENS**
 - [x] fix **KNEE ARMOR** for **ALIENS**
 - [x] fix **FOOT ARMOR** for **ALIENS**
-- [ ] arrow holding fingers pose
+- [x] arrow holding fingers pose
+- [x] fix arrow length between body_types
+- [x] fit BOW_POSE_02 knee
+- [x] alien BOW fingers
+- [x] **Chest Armor**  - **SINGLE (L/R)** or **BOTH** - arm with the weapon has the armor
+- [x] **Forearm Armor**  - **SINGLE (L/R)** or **BOTH** - arm with the weapon has the armor
+- [x] check **BOW POSE**
+- [x] fix shields penetrations
+- [x] cameras
+- [x] **REST_POSE_04** swords
+- [x] **SWORD_POSE_02** - **right hand** accessory could **not** be **OFF**
+- [x] fix bow arrow
+- [x] fix fingers 7-9
+- [x] rest pose 02 chest armor
+- [x] for the free hand, change pose to grip
+- [x] too dark skin
+- [x] Bow Pose 02 - hip armor penetrations
+- [x] Bow Pose 02 - foot armor penetrations
+- [x] Bow Pose 02 - eyes
+- [x] Rest Pose 04 - issue when there is no chest armor
+- [x] Chest armor 1-3 - fix the sim (image 18)
+- [x] image 30 eyes
+- [x] camera for shields guys
+- [x] chest armor should be ON for 7 and 9 
+- [ ] head cropped guy

@@ -1,7 +1,6 @@
 ---
 ---
 
-![[Naval Book.pdf]]
 Одна з кращих книг з інвестицій і правильній життєвій парадигмі:  
 
 Naval Ravikant (investor, former CEO of AngelList) – How To Get Rich (доступна в додатку, в перекладі на російську мову)
